@@ -8,7 +8,7 @@ def factorial(n):
 
 
 before_time = time.clock()
-for i in range(1, 10000)
+for i in range(1, 10000):
 	factorial(200)
 after_time = time.clock(); 
 
